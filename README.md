@@ -24,6 +24,7 @@
 | gourav chawla                                          | _Frontend web-developer, c++_    |
 | Abhi Tyagi                                             | _web-developer, python, c++_    |
 | Namrutha Hari                                          | _Web-Developer, Cloud_|
+| Ace Nasir                                              | _Web-Developer, Cloud_|
 
 ### Follow the instructions of CONTRIBUTING.md properly.
 
